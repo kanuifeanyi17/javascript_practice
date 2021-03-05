@@ -1,4 +1,4 @@
-//a program that asks the user for their name and greets them with their name
+//a program that such that only the users Alice and Bob are greeted with their names.
 
 function greetUser() {
 const myName = "Alice & Bob";
